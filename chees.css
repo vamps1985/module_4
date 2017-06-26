@@ -1,0 +1,88 @@
+.head {
+	width: 600px;
+	height: 600px;
+	border: 1px solid black;
+}
+
+.first {
+	height: 200px;
+	width: 200px;
+	
+	background-color: #850000;
+	float: left;
+
+
+}
+
+.two {
+	height: 200px;
+	width: 200px;
+	float: left;
+}
+
+.two img {
+	height: 200px;
+	width: 200px;
+}
+
+.three {
+	height: 200px;
+	width: 200px;
+	float: left;
+	background-color: #850000;
+}
+
+.four {
+	height: 200px;
+	width: 200px;
+	float: left;
+	
+
+}
+
+.four img {
+	height: 200px;
+	width: 200px;
+}
+
+.five {
+	height: 200px;
+	width: 200px;
+	float: left;
+	background-color: #850000;
+}
+
+.six {
+	height: 200px;
+	width: 200px;
+	float: left;
+	}
+
+.seven {
+	height: 200px;
+	width: 200px;
+	float: left;
+	background-color: #850000;
+}
+
+.eight {
+	height: 200px;
+	width: 200px;
+	float: left;
+
+}
+
+.eight img {
+	height: 200px;
+	width: 200px;
+	
+}
+
+.nine {
+	height: 200px;
+	width: 200px;
+	float: left;
+	background-color: #850000;
+
+}
+
